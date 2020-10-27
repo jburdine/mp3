@@ -1,2 +1,2 @@
-#Mon Oct 26 20:42:05 EDT 2020
+#Tue Oct 27 03:12:01 EDT 2020
 getColumnCaption=\ Returns the name of the column that explains what this column means\n\n @return\n      The convention is to use capitalization like "Foo Bar Zot".\n
