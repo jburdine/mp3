@@ -1,0 +1,53 @@
+Oct 27, 2020 3:38:37 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:36067/jenkins/
+Oct 27, 2020 3:38:38 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:38:38 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:38:38 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:38:38 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:38:38 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:38:45 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:38:46 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting defaultImageIsReturnedIfRegexFails(hudson.tasks.UserAvatarResolverTest)
+Oct 27, 2020 3:38:47 AM hudson.tasks.UserAvatarResolver resolveOrNull
+WARNING: Could not split up the avatar size (meh) into a width and height.
+Oct 27, 2020 3:38:49 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:42657/jenkins/
+Oct 27, 2020 3:38:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:38:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:38:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:38:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:38:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:38:53 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:38:53 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting noResolverCanFindAvatar(hudson.tasks.UserAvatarResolverTest)
+Oct 27, 2020 3:38:54 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:39497/jenkins/
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:38:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting resolverIsUsed(hudson.tasks.UserAvatarResolverTest)

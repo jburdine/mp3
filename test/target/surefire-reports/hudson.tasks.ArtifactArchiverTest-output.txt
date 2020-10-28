@@ -1,0 +1,148 @@
+Oct 27, 2020 3:39:41 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:34197/jenkins/
+Oct 27, 2020 3:39:49 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:39:49 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:39:49 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:39:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:39:50 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:40:11 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:40:14 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testEmptyDirectories(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:40:54 AM hudson.model.Run execute
+INFO: test0 #1 main build action completed: SUCCESS
+Oct 27, 2020 3:42:43 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:43107/jenkins/
+Oct 27, 2020 3:42:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:42:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:42:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:42:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:42:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:42:45 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:42:45 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testArchivingSkippedWhenOnlyIfSuccessfulChecked(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:43:00 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:36147/jenkins/
+Oct 27, 2020 3:43:07 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:43:07 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:43:07 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:43:07 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:43:07 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:43:14 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:43:14 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting fingerprintMigration(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:43:19 AM hudson.model.Run execute
+INFO: sample #1 main build action completed: SUCCESS
+Oct 27, 2020 3:43:22 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:38237/jenkins/
+Oct 27, 2020 3:43:23 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:43:23 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:43:23 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:43:23 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:43:23 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:43:25 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:43:25 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testDefaultExcludesOn(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:43:25 AM hudson.model.Run execute
+INFO: test0 #1 main build action completed: SUCCESS
+Oct 27, 2020 3:43:26 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:34871/jenkins/
+Oct 27, 2020 3:43:26 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:43:26 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:43:26 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:43:26 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:43:26 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:43:29 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:43:29 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testAllowEmptyArchive(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:43:31 AM hudson.model.Run execute
+INFO: test0 #1 main build action completed: SUCCESS
+Oct 27, 2020 3:43:35 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:34553/jenkins/
+Oct 27, 2020 3:43:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:43:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:43:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:43:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:43:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:43:44 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:43:45 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting latestOnlyMigration(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:43:49 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:34279/jenkins/
+Oct 27, 2020 3:43:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:43:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:43:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:43:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:43:55 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:44:02 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:44:02 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testDefaultExcludesOff(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:44:02 AM hudson.model.Run execute
+INFO: test0 #1 main build action completed: SUCCESS
+Oct 27, 2020 3:44:03 AM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:37943/jenkins/
+Oct 27, 2020 3:44:03 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Oct 27, 2020 3:44:03 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Oct 27, 2020 3:44:03 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Oct 27, 2020 3:44:03 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Oct 27, 2020 3:44:03 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Oct 27, 2020 3:44:04 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Oct 27, 2020 3:44:04 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting outsideSymlinks(hudson.tasks.ArtifactArchiverTest)
+Oct 27, 2020 3:44:05 AM hudson.model.Run execute
+INFO: test0 #1 main build action completed: SUCCESS

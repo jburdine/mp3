@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hudson.widgets.HistoryWidgetTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 346.014 sec - in hudson.widgets.HistoryWidgetTest
