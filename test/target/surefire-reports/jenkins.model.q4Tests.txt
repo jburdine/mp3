@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jenkins.model.q4Tests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.681 sec - in jenkins.model.q4Tests
