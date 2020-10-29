@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hudson.FilePathTest" time="57.828" tests="24" errors="0" skipped="1" failures="0">
+<testsuite name="hudson.FilePathTest" time="35.435" tests="24" errors="0" skipped="1" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
@@ -59,30 +59,30 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="validateAntFileMaskBounded" classname="hudson.FilePathTest" time="1.249"/>
-  <testcase name="errorMessageInRemoteCopyRecursive" classname="hudson.FilePathTest" time="45.671"/>
-  <testcase name="listWithExcludes" classname="hudson.FilePathTest" time="0.126"/>
-  <testcase name="normalization" classname="hudson.FilePathTest" time="0.007"/>
-  <testcase name="copyTo" classname="hudson.FilePathTest" time="0.065"/>
-  <testcase name="noRaceConditionInCopyTo" classname="hudson.FilePathTest" time="1.097"/>
-  <testcase name="isUnix" classname="hudson.FilePathTest" time="0.046"/>
-  <testcase name="noFileLeakInCopyTo" classname="hudson.FilePathTest" time="6.468"/>
-  <testcase name="copyToWithPermission" classname="hudson.FilePathTest" time="1.914"/>
-  <testcase name="repeatCopyRecursiveTo" classname="hudson.FilePathTest" time="0.078"/>
-  <testcase name="archiveBug" classname="hudson.FilePathTest" time="0.207"/>
-  <testcase name="deleteLongPathOnWindows" classname="hudson.FilePathTest" time="0.032"/>
-  <testcase name="list" classname="hudson.FilePathTest" time="0.017"/>
-  <testcase name="installIfNecessaryPerformsInstallation" classname="hudson.FilePathTest" time="0.539"/>
-  <testcase name="installIfNecessaryAvoidsExcessiveDownloadsByUsingIfModifiedSince" classname="hudson.FilePathTest" time="0.006"/>
-  <testcase name="moveAllChildrenTo" classname="hudson.FilePathTest" time="0.023"/>
-  <testcase name="compressTarUntarRoundTrip" classname="hudson.FilePathTest" time="0.062"/>
+  <testcase name="validateAntFileMaskBounded" classname="hudson.FilePathTest" time="0"/>
+  <testcase name="errorMessageInRemoteCopyRecursive" classname="hudson.FilePathTest" time="25.787"/>
+  <testcase name="listWithExcludes" classname="hudson.FilePathTest" time="0.01"/>
+  <testcase name="normalization" classname="hudson.FilePathTest" time="0.01"/>
+  <testcase name="copyTo" classname="hudson.FilePathTest" time="0.017"/>
+  <testcase name="noRaceConditionInCopyTo" classname="hudson.FilePathTest" time="1.344"/>
+  <testcase name="isUnix" classname="hudson.FilePathTest" time="0.013"/>
+  <testcase name="noFileLeakInCopyTo" classname="hudson.FilePathTest" time="6.047"/>
+  <testcase name="copyToWithPermission" classname="hudson.FilePathTest" time="1.337"/>
+  <testcase name="repeatCopyRecursiveTo" classname="hudson.FilePathTest" time="0.022"/>
+  <testcase name="archiveBug" classname="hudson.FilePathTest" time="0.039"/>
+  <testcase name="deleteLongPathOnWindows" classname="hudson.FilePathTest" time="0.034"/>
+  <testcase name="list" classname="hudson.FilePathTest" time="0.006"/>
+  <testcase name="installIfNecessaryPerformsInstallation" classname="hudson.FilePathTest" time="0.619"/>
+  <testcase name="installIfNecessaryAvoidsExcessiveDownloadsByUsingIfModifiedSince" classname="hudson.FilePathTest" time="0.013"/>
+  <testcase name="moveAllChildrenTo" classname="hudson.FilePathTest" time="0.006"/>
+  <testcase name="compressTarUntarRoundTrip" classname="hudson.FilePathTest" time="0.05"/>
   <testcase name="archiveBigFile" classname="hudson.FilePathTest" time="0">
     <skipped/>
   </testcase>
-  <testcase name="getParent" classname="hudson.FilePathTest" time="0.009"/>
-  <testcase name="multiSegmentRelativePaths" classname="hudson.FilePathTest" time="0.003"/>
-  <testcase name="installIfNecessarySkipsDownloadWhenErroneous" classname="hudson.FilePathTest" time="0.042"/>
-  <testcase name="validateAntFileMask" classname="hudson.FilePathTest" time="0.045"/>
-  <testcase name="symlinkInTar" classname="hudson.FilePathTest" time="0.117"/>
-  <testcase name="listWithDefaultExcludes" classname="hudson.FilePathTest" time="0.005"/>
+  <testcase name="getParent" classname="hudson.FilePathTest" time="0.02"/>
+  <testcase name="multiSegmentRelativePaths" classname="hudson.FilePathTest" time="0.009"/>
+  <testcase name="installIfNecessarySkipsDownloadWhenErroneous" classname="hudson.FilePathTest" time="0.011"/>
+  <testcase name="validateAntFileMask" classname="hudson.FilePathTest" time="0.023"/>
+  <testcase name="symlinkInTar" classname="hudson.FilePathTest" time="0.012"/>
+  <testcase name="listWithDefaultExcludes" classname="hudson.FilePathTest" time="0.006"/>
 </testsuite>

@@ -484,6 +484,7 @@ jenkins/security/SecurityContextExecutorServiceTest$3.class
 hudson/diagnosis/OldDataMonitorTest$BadAction.class
 hudson/security/TokenBasedRememberMeServices2Test.class
 hudson/LauncherTest$QuietBatchFile$DescriptorImpl.class
+jenkins/model/q4Tests.class
 hudson/triggers/TriggerStartTest.class
 hudson/RelativePathTest$Model.class
 jenkins/model/ExtensionTypeHierarchyTest$Animal.class
