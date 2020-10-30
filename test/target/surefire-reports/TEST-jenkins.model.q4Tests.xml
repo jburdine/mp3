@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jenkins.model.q4Tests" time="29.101" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="jenkins.model.q4Tests" time="31.765" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
@@ -63,6 +63,6 @@
     <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="test1" classname="jenkins.model.q4Tests" time="28.195"/>
-  <testcase name="test2" classname="jenkins.model.q4Tests" time="0.906"/>
+  <testcase name="test1" classname="jenkins.model.q4Tests" time="29.665"/>
+  <testcase name="test2" classname="jenkins.model.q4Tests" time="2.1"/>
 </testsuite>
