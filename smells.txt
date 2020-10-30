@@ -1,0 +1,12 @@
+Jacob Burdine's smells.txt
+
+1.  This code smell is "Duplicated Code" and the refactoring option we use to fix it is "Extract Method".
+2.  Done.
+3.  This code smell is "Feature Envy" because it calls methods in another class. 
+	The refactoring option we use to fix it is "Move Method"
+4.  I eliminated this repeated code by inserting the repetitive code into a for loop. However, this was not enough.
+	Thereafter, I created a label as per the hint so I could break from the outer loop instead of the inner one.
+5.	Done.
+6.	I eliminated the duplicated code in "hudson.scheduler.CronTabTest" by highlighting everything within
+	the ceil4 test, extracting a method, and calling that method within the ceil5 test, eradicating redundancy 
+	in both tests
